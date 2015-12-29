@@ -1,0 +1,38 @@
+#content {
+	margin:auto;
+	padding-top:10%;
+	width:638px;
+}
+
+#searchfield {
+	width:638px;
+}
+
+#buttons {
+	margin:19%;
+	display:inline;
+}
+
+.button {
+	margin-right:2%;
+	width:27%;
+}
+
+li {
+	display: inline;
+}
+
+a{
+	text-decoration: none;
+	font-family:sans-serif;
+	color:black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+
+#topbar{
+	float:right;
+}
